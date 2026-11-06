@@ -1,6 +1,6 @@
 ## Lab Exercise 1- Prompt Engineering, LLM Token Hands-On
 
-https://drive.google.com/file/d/10f1VoCYXsV87c9xfBKDofB6h8h7ko32w/view?usp=sharing
+https://colab.research.google.com/drive/18hbCXddFZxd-kc8-bIZdCNnnbD-8Yo8S?usp=sharing
 
 ## Lab Exercise 2: RAG Implementation
 
